@@ -141,6 +141,7 @@ jobs:
           name: spec-renderer-build-output-artifact
           path: ./dist
 
+
       - name: Semantic Release
         if: github.event_name == 'push'
         id: semantic_release
