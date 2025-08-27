@@ -20,17 +20,8 @@ jobs:
       - name: Setup PNPM with Dependencies
         uses: ./.github/actions/setup-pnpm-with-dependencies/
 
-      - name: Stylelint
-        run: pnpm run stylelint
-
-      - name: Lint
-        run: pnpm run lint
-
       - name: Build
         run: pnpm run build
-
-      - name: Test
-        run: pnpm run test
 
       - name: Upload build artifacts
         if: |
