@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Kong/npm-publish-test/compare/v1.0.0...v1.0.1) (2025-08-27)
+
+
+### Bug Fixes
+
+* step id ([e2ceef7](https://github.com/Kong/npm-publish-test/commit/e2ceef73395ae184e3d3f0e041944e12893c413f))
+
 # 1.0.0 (2025-08-27)
 
 
