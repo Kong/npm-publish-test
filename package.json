@@ -1,6 +1,6 @@
 {
   "name": "@kong-ui-public/npm-publish-test",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Test trusted publishing to npm registry",
   "type": "module",
   "repository": {
@@ -38,8 +38,7 @@
   "peerDependencies": {
     "vue": ">= 3.3.13 < 4"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@babel/types": "^7.28.2",
     "@commitlint/cli": "^19.8.1",
