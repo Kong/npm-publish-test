@@ -154,5 +154,4 @@ jobs:
       - name: Publish to npm
         if: github.event_name == 'push' && steps.semantic_release.outputs.new_release_published == 'true'
         run: |
-          echo "published: ${{steps.semantic_release.outputs.new_release_published }}"
           npm publish
