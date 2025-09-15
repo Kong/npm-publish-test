@@ -30,6 +30,8 @@
   "scripts": {
     "build": "pnpm typecheck && vite build && vue-tsc -p './tsconfig.build.json' --emitDeclarationOnly && tsc-alias -p './tsconfig.build.json'",
     "commit": "cz",
+    "stylelint": "stylelint --allow-empty-input './src/**/*.{css,scss,sass,vue}'",
+    "stylelint:fix": "stylelint --allow-empty-input './src/**/*.{css,scss,sass,vue}' --fix",
     "typecheck": "vue-tsc -p './tsconfig.build.json' --noEmit",
     "lint": "eslint",
     "lint:fix": "eslint --fix",
