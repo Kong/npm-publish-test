@@ -1,1 +1,1 @@
-console.log('Hello, npm publish!');
+console.log('Hello, npm publish!')
