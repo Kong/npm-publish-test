@@ -134,6 +134,7 @@ jobs:
         run: |
           git config --global user.email "konnectx-engineers+kongponents-bot@konghq.com"
           git config --global user.name 'kong-bot'
+          rm /home/runner/work/_temp/.npmrc || true
           npm --version
           pnpm --version
           node --version
