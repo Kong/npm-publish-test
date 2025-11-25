@@ -104,9 +104,6 @@ importers:
       sass-embedded:
         specifier: ^1.92.1
         version: 1.93.1
-      semantic-release:
-        specifier: ^25.0.1
-        version: 25.0.1(typescript@5.9.2)
       stylelint:
         specifier: ^16.24.0
         version: 16.24.0(typescript@5.9.2)
