@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/Kong/npm-publish-test/compare/v1.0.3...v1.0.4) (2025-11-25)
+
+
+### Bug Fixes
+
+* bumping semantic release ([05abd1b](https://github.com/Kong/npm-publish-test/commit/05abd1b9fa5d59d9179d01f4b72bca5bfece764b))
+
 ## [1.0.3](https://github.com/Kong/npm-publish-test/compare/v1.0.2...v1.0.3) (2025-11-06)
 
 

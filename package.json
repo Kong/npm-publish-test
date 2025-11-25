@@ -1,6 +1,6 @@
 {
   "name": "@kong-ui-public/npm-publish-test",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Test trusted publishing to npm registry",
   "type": "module",
   "repository": {
